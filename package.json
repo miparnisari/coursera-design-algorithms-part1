@@ -1,0 +1,21 @@
+{
+  "name": "coursera-algorithm-design-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Ines Parnisari",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "hashtable": "^2.0.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.0",
+    "should": "^11.1.0",
+    "jshint": "^2.9.3"
+  }
+}
